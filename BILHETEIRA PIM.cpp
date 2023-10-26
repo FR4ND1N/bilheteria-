@@ -98,7 +98,7 @@ int main ()
 							
 							printf("\t [2]Meia: 5,00 R$ \n");
 							
-							printf("\t [3] Entrada gratuita com isenção \n");
+							printf("\t [3] Entrada gratuita com isencao \n");
 							
 							scanf("%i",&FP);
 							
@@ -116,7 +116,7 @@ int main ()
 							
 							if (FP==3)
 							{
-								printf("\t Tipo de ingreso :: INSENÇÃO \n\n ");
+								printf("\t Tipo de ingreso :: INSENCAO \n\n ");
 							}
 							
 							printf("\tHorario escolhido 1: 9;00\n\n");
@@ -154,7 +154,7 @@ int main ()
 							
 							printf("\t [2]Meia: 5,00 R$ \n");
 							
-							printf("\t [3] Entrada gratuita com isenção \n");
+							printf("\t [3] Entrada gratuita com isencao \n");
 							
 						scanf("%i",&FP);
 						
@@ -172,7 +172,7 @@ int main ()
 							
 							if (FP==3)
 							{
-								printf("\t Tipo de ingreso :: INSENÇÃO \n\n ");
+								printf("\t Tipo de ingreso :: INSENCAO \n\n ");
 							}
 							
 						
@@ -210,7 +210,7 @@ int main ()
 							
 							printf("\t [2]Meia: 5,00 R$ \n");
 							
-							printf("\t [3] Entrada gratuita com isenção \n");
+							printf("\t [3] Entrada gratuita com isencao \n");
 							
 						scanf("%i",&FP);
 						
@@ -228,7 +228,7 @@ int main ()
 							
 							if(FP==3)
 							{
-								printf("\t Tipo de ingreso :: INSENÇÃO \n\n");
+								printf("\t Tipo de ingreso :: INSENCAO \n\n");
 							}
 							
 						
@@ -267,7 +267,7 @@ int main ()
 							
 							printf("\t [2]Meia: 5,00 R$ \n");
 							
-							printf("\t [3] Entrada gratuita com isenção \n");
+							printf("\t [3] Entrada gratuita com isencao \n");
 							
 				
 				
@@ -291,7 +291,7 @@ int main ()
 				
 					if (FP==3)
 							{
-								printf("\t Tipo de ingreso :: INSENÇÃO \n\n ");
+								printf("\t Tipo de ingreso :: INSENCAO \n\n ");
 							}
 				
 				
