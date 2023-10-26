@@ -234,7 +234,7 @@ int main ()
 						
 						printf("\tSeu bilhete foi adiquirido com sucesso. \n");
 						
-						printf("\tSessao escolhida 3: 17:30\n");
+						printf("\tSessao escolhida 3: 15:00\n");
 						
 						printf("\tDivirta-se.\n\n ");
 					
